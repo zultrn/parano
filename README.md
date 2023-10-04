@@ -1,2 +1,2 @@
-### Parano - theme for helix editor
-It's a strange mix between catppuccin mocha and ayu dark
+### Parano - A theme for helix editor
+A extrange crossover between Ayu Dark and Catppuccin Mocha
